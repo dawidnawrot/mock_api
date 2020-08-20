@@ -2,13 +2,13 @@
   "data": {
     "fuel": {
       "readable_name": "Fuel",
-      "path": "http://pl.circlek.lndo.site/fuel.svg",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
       "size": "345345435",
       "mime_type": "image/svg+xml"
     },
     "carwash": {
       "readable_name": "Car wash",
-      "path": "http://pl.circlek.lndo.site/carwash.svg",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
       "size": "345345435",
       "mime_type": "image/svg+xml"
     }
