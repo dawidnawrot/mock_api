@@ -1,0 +1,16 @@
+{
+  "data": {
+    "fuel": {
+      "readable_name": "Fuel",
+      "path": "http://training.circlek.lndo.site/icons/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash": {
+      "readable_name": "Car wash",
+      "path": "http://training.circlek.lndo.site/icons/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    }
+  }
+}
