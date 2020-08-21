@@ -11,6 +11,54 @@
       "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
       "size": "345345435",
       "mime_type": "image/svg+xml"
+    },
+    "fuel1": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash1": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "fuel2": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash2": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "fuel3": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash3": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "fuel4": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash4": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
     }
   }
 }
