@@ -59,6 +59,30 @@
       "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
       "size": "345345435",
       "mime_type": "image/svg+xml"
+    },
+    "fuel5": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash5": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "fuel6": {
+      "readable_name": "Fuel",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/fuel.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
+    },
+    "carwash6": {
+      "readable_name": "Car wash",
+      "path": "https://raw.githubusercontent.com/dawidnawrot/mock_api/master/carwash.svg",
+      "size": "345345435",
+      "mime_type": "image/svg+xml"
     }
   }
 }
