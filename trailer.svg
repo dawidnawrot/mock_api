@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="42px" viewBox="0 0 56 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59.1 (101010) - https://sketch.com -->
+    <title>99AC7E01-5553-40D0-A661-DA621AF845B5</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CircleK_Front" transform="translate(-1164.000000, -866.000000)" stroke-width="2">
+            <g id="Circle.dk_Front_Revised" transform="translate(-1.000000, 0.000000)">
+                <g id="Fuel_prizes_Band" transform="translate(1.000000, 657.000000)">
+                    <g id="Service_band">
+                        <g id="Icons" transform="translate(258.000000, 159.000000)">
+                            <g id="Fuel-price-Copy-3" transform="translate(822.000000, 0.000000)">
+                                <g id="Fuel-price">
+                                    <g id="Icon/01_Miles" transform="translate(72.000000, 29.000000)">
+                                        <g id="Icon/32/EVFuel-Copy" transform="translate(13.000000, 20.000000)">
+                                            <path d="M32,8 L42.7241043,8 C44.4699796,8 45.9611915,9.35708608 46.2533082,11.2117727 L50,35 L50,35" id="Path" stroke="#DC260A"></path>
+                                            <path d="M54,35.1470588 L48.4484926,35.1470588 L24.3870968,35.1470588 M12.1935484,36 L8.72753956,36 C3.90745256,36 -1.13686838e-13,31.3629492 -1.13686838e-13,25.6428571 L-1.13686838e-13,11.1428571 C-1.13686838e-13,8.85482032 1.56298102,7 3.49101583,7 L12.1642577,7" id="Shape" stroke="#DC260A"></path>
+                                            <g id="Icon/Key" transform="translate(20.899653, 8.479571) rotate(-45.000000) translate(-20.899653, -8.479571) translate(12.899653, 4.979571)" stroke="#DE2300">
+                                                <g id="Group">
+                                                    <ellipse id="Oval-Copy" cx="3.44836957" cy="3.36196911" rx="3.44836957" ry="3.36196911"></ellipse>
+                                                    <line x1="6.89673913" y1="3.36196911" x2="15.8280732" y2="3.36196911" id="Path-5-Copy"></line>
+                                                    <line x1="14.1038884" y1="3.36196911" x2="14.1038884" y2="5.97553047" id="Path-6"></line>
+                                                    <line x1="10.6555189" y1="3.36196911" x2="10.6555189" y2="5.97553047" id="Path-6"></line>
+                                                </g>
+                                            </g>
+                                            <ellipse id="Oval" stroke="#DE2300" cx="18.5" cy="37" rx="5.5" ry="5"></ellipse>
+                                            <line x1="0" y1="21.5" x2="13" y2="21.5" id="Path-5" stroke="#DC260A"></line>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
